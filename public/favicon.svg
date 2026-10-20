@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="54" y1="28" x2="458" y2="492" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#082D4A"/>
+      <stop offset="1" stop-color="#031827"/>
+    </linearGradient>
+    <linearGradient id="eye" x1="118" y1="128" x2="396" y2="302" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16C8FF"/>
+      <stop offset="1" stop-color="#087DF5"/>
+    </linearGradient>
+    <radialGradient id="iris" cx="0" cy="0" r="1" gradientTransform="matrix(0 57 -57 0 256 218)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16C8FF"/>
+      <stop offset="1" stop-color="#087DF5"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="92" fill="url(#bg)"/>
+  <rect x="1" y="1" width="510" height="510" rx="91" stroke="#50BFFF" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M74 218C120 151 181 115 256 115c75 0 136 36 182 103-46 67-107 103-182 103-75 0-136-36-182-103Z" stroke="url(#eye)" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="218" r="66" stroke="#EAF8FF" stroke-width="11"/>
+  <circle cx="256" cy="218" r="48" fill="url(#iris)"/>
+  <circle cx="256" cy="218" r="22" fill="#031827"/>
+  <circle cx="273" cy="199" r="9" fill="#EAF8FF"/>
+  <text x="256" y="390" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">EyeView</text>
+  <path d="M116 415h280" stroke="#168FFF" stroke-opacity=".8" stroke-width="2"/>
+  <text x="256" y="449" text-anchor="middle" fill="#A9D8F6" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="500" letter-spacing=".25">Engineering With ICT Solution</text>
+</svg>
