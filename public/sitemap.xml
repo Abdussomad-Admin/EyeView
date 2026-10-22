@@ -3,4 +3,19 @@
   <url>
     <loc>https://eyeview-engineering.vercel.app/</loc>
   </url>
+  <url>
+    <loc>https://eyeview-engineering.vercel.app/about</loc>
+  </url>
+  <url>
+    <loc>https://eyeview-engineering.vercel.app/engineering</loc>
+  </url>
+  <url>
+    <loc>https://eyeview-engineering.vercel.app/ict-solutions</loc>
+  </url>
+  <url>
+    <loc>https://eyeview-engineering.vercel.app/projects</loc>
+  </url>
+  <url>
+    <loc>https://eyeview-engineering.vercel.app/contact</loc>
+  </url>
 </urlset>
